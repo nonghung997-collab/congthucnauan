@@ -1,0 +1,6 @@
+{
+  "name": "Smart Meal Planner",
+  "description": "Cook Smarter. Waste Less. Eat Better. Find instant recipes with ingredients you have, plan 7-day meals, track pantry expiration, and generate smart shopping lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

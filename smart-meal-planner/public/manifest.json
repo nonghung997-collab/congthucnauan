@@ -1,0 +1,16 @@
+{
+  "name": "Smart Meal Planner",
+  "short_name": "MealPlanner",
+  "description": "Cook Smarter. Waste Less. Eat Better. Find recipes by ingredients, plan meals, and reduce food waste.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
